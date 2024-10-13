@@ -20,6 +20,86 @@
 - Task scheduling
 - Resource allocation
 - User interface provision
+- Process Management:
+
+Creation, scheduling, and termination of processes
+Inter-process communication and synchronization
+Deadlock handling
+
+
+Memory Management:
+
+Allocation and deallocation of memory space
+Virtual memory implementation
+Paging and segmentation
+
+
+File System Management:
+
+Creation and deletion of files and directories
+File organization and access methods
+File system structure (e.g., FAT, NTFS, ext4)
+
+
+I/O Management:
+
+Device driver management
+Buffering, caching, and spooling
+I/O scheduling
+
+
+Network Management:
+
+Implementation of network protocols
+Management of network interfaces
+Network security
+
+
+Security Management:
+
+User authentication and authorization
+Access control mechanisms
+Encryption and data protection
+
+
+
+Operations (Expanded):
+
+Booting:
+
+POST (Power-On Self-Test)
+Bootloader execution
+Kernel loading and initialization
+User space initialization
+
+
+Memory Allocation:
+
+Physical and virtual memory management
+Paging and swapping
+Memory protection mechanisms
+
+
+Task Scheduling:
+
+CPU scheduling algorithms implementation
+Context switching
+Priority management
+
+
+Resource Allocation:
+
+CPU time allocation
+Memory space allocation
+I/O device allocation
+Deadlock prevention and handling
+
+
+User Interface Provision:
+
+Command-line interface (CLI) implementation
+Graphical user interface (GUI) support
+System calls interface
 
 ### Multiprogramming and Multiprocessing Systems
 
